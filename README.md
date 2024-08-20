@@ -13,3 +13,7 @@ All dot size parameters are defaulted to those recommended by [the Braille Autho
 ## Tactile Model Generator
 
 In the world of STEM outreach, there are some programs that have created tools called _tactile models_ to aid BLV individuals. Typically, tactile models represent flat planes with raised sections to communicate some visual feature (i.e., height, color, brightness, etc.), although they can take on many other forms. This ___Tactile Model Generator___ is focused on this simple case where an image is used to displace a flat surface. To demonstrate this package at work, a demonstration of one of these models is shown below.
+
+<p align="center" width="100%">
+    <img width="70%" src="https://github.com/Autumn10677/BlenderBraille/blob/main/example_model.gif">
+</p>
